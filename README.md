@@ -18,7 +18,6 @@ A 2D Space Shooter Game developed in **C++** using **OpenGL (GLUT)**. Control a 
 - C++
 - OpenGL (GLUT)
 - Windows API (PlaySound)
-- STL (`std::vector`)
 
 ## 🎯 Controls
 
